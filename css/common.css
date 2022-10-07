@@ -24,3 +24,12 @@ button {
 }
 
 
+.picture {
+  width: 100%;
+}
+
+.gallery__item {
+  display: flex; 
+  list-style: none; 
+
+}
